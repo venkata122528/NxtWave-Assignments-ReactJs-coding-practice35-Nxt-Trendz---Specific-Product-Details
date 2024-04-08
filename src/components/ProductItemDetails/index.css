@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.starAndReviewContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+
+.starContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+
+.star {
+  align-self: flex-end;
+}
+
+.buttonsContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
